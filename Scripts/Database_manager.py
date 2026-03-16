@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-conn = sqlite3.connect('japan_database.sqlite')
+conn = sqlite3.connect('../japan_database.sqlite')
 cur = conn.cursor()
 
 #Table1
