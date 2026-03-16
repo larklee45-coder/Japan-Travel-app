@@ -30,7 +30,7 @@ This application is a full-cycle data pipeline built to assist in planning my up
 ## ⚙️ How to Run
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/japan-travel-app.git](https://github.com/YOUR_USERNAME/japan-travel-app.git)
+   git clone https://github.com/larklee45-coder/Japan-Travel-app.git
 
 2. bash pip install folium python-dotenv
 3. bash python app.py
