@@ -35,3 +35,5 @@ This application is a full-cycle data pipeline built to assist in planning my up
 2. bash pip install folium python-dotenv
 3. bash python app.py
 4. View Map: Open index.html in any web browser.
+
+LIVE DEMO:  https://larklee45-coder.github.io/Japan-Travel-app/
